@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 8c04c331fcdc865458160d4e565066f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d0a8b62e1247146ba273c051c489a0
+      internalID: -335692599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee937defa5dae6c42b1dd775979ae822
+      internalID: -901684497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2121d6a92ba24b85bd3f6614362f9
+      internalID: -1364060510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ecc602d1ad39d449aea9b5044ff854
+      internalID: -416079649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76d00466a6d4a48a5a3332bb22c46a
+      internalID: -1793697160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06ad2b22fa598469411c63dee88387
+      internalID: 1346724766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190c5b32b0e98e4eb7fc0ceb673ca30
+      internalID: 322199353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516e4a376bf22a4fa82b04a0f867391
+      internalID: 2106788385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_8
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf78e22dc0d7d44be3805506ad4855
+      internalID: 1331107066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_9
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c92321c818ed40aa518ad42e4b16f
+      internalID: 970742670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16db8b40582e864a89afb871a9176ce
+      internalID: -1713152108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_11
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f6e9881e6d5fa4c82fd438e50e2898
+      internalID: -815430727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_12
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b9dde927847d4d87d02a4348ae553
+      internalID: -335896185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_13
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe6a93b908b57478f26ad2c585f9c1
+      internalID: -223676180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_14
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188566bf73ef50e4584bbe99efecaa3c
+      internalID: -1497446027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_15
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77e5b33f6002b3498f980272eb588c7
+      internalID: -243997401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_16
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbea20c7fe04f774e85a1f257e2f0d64
+      internalID: -1958136867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_17
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4b98c4fc0322469679f6a883df625
+      internalID: -1562097906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_18
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147ebc49671e2934c938af3eb760f35d
+      internalID: -180827140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_19
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a3d104d1f88e4485c893c0d73e3a5
+      internalID: 1201889802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_NecromancerIdle_strip50_20
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 32
+        width: 28
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cfdaa43a037a44fb234f1b90e97515
+      internalID: -1621695118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_NecromancerIdle_strip50_15: -243997401
+      spr_NecromancerIdle_strip50_46: -947481123
+      spr_NecromancerIdle_strip50_7: 2106788385
+      spr_NecromancerIdle_strip50_26: -1986266618
+      spr_NecromancerIdle_strip50_43: -320174299
+      spr_NecromancerIdle_strip50_36: 245753939
+      spr_NecromancerIdle_strip50_13: -223676180
+      spr_NecromancerIdle_strip50_33: 872509341
+      spr_NecromancerIdle_strip50_39: -800395515
+      spr_NecromancerIdle_strip50_48: 150903189
+      spr_NecromancerIdle_strip50_37: 1306843028
+      spr_NecromancerIdle_strip50_28: -984756741
+      spr_NecromancerIdle_strip50_16: -1958136867
+      spr_NecromancerIdle_strip50_21: -1777250936
+      spr_NecromancerIdle_strip50_25: 1017382703
+      spr_NecromancerIdle_strip50_9: 970742670
+      spr_NecromancerIdle_strip50_27: 352503352
+      spr_NecromancerIdle_strip50_14: -1497446027
+      spr_NecromancerIdle_strip50_34: -843184653
+      spr_NecromancerIdle_strip50_49: 651488584
+      spr_NecromancerIdle_strip50_32: -1336872623
+      spr_NecromancerIdle_strip50_2: -1364060510
+      spr_NecromancerIdle_strip50_22: 1282614265
+      spr_NecromancerIdle_strip50_35: -845767938
+      spr_NecromancerIdle_strip50_3: -416079649
+      spr_NecromancerIdle_strip50_4: -1793697160
+      spr_NecromancerIdle_strip50_11: -815430727
+      spr_NecromancerIdle_strip50_20: -1621695118
+      spr_NecromancerIdle_strip50_8: 1331107066
+      spr_NecromancerIdle_strip50_10: -1713152108
+      spr_NecromancerIdle_strip50_47: -1583212803
+      spr_NecromancerIdle_strip50_41: 1711684689
+      spr_NecromancerIdle_strip50_17: -1562097906
+      spr_NecromancerIdle_strip50_24: -714706644
+      spr_NecromancerIdle_strip50_12: -335896185
+      spr_NecromancerIdle_strip50_40: 1385461387
+      spr_NecromancerIdle_strip50_23: 1435239020
+      spr_NecromancerIdle_strip50_0: -335692599
+      spr_NecromancerIdle_strip50_29: -570414441
+      spr_NecromancerIdle_strip50_30: 1315317110
+      spr_NecromancerIdle_strip50_31: -869517047
+      spr_NecromancerIdle_strip50_5: 1346724766
+      spr_NecromancerIdle_strip50_42: -7875517
+      spr_NecromancerIdle_strip50_45: 47424614
+      spr_NecromancerIdle_strip50_6: 322199353
+      spr_NecromancerIdle_strip50_19: 1201889802
+      spr_NecromancerIdle_strip50_38: 1585745995
+      spr_NecromancerIdle_strip50_44: 1795919771
+      spr_NecromancerIdle_strip50_18: -180827140
+      spr_NecromancerIdle_strip50_1: -901684497
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
